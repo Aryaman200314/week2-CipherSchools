@@ -1,0 +1,14 @@
+React Quiz - 1
+buffers 
+data -> buffer -> buffer -> screen 
+
+
+In the context of ReactJS, 
+buffering can be used to optimize the rendering and update process of components. 
+By buffering the changes made to the component's state, ReactJS can batch and optimize the rendering process, 
+resulting in improved performance.
+
+1) predict the two ways that data gets handles in react 
+2) to achieve dynamic UI whihc if the following needs ti udated 
+3)  is used to keep the value 
+4) class seletor 
