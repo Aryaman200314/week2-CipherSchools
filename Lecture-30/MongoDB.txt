@@ -1,0 +1,26 @@
+get/get photos 
+click(show photos) --> GET getphotos (){
+    return [photos]
+}
+
+
+frontend <-> HTTP backend <-> ftp <-> database supplying data 
+
+
+                    GET
+SOAP Architecture - xml based 
+REST Architecture
+
+REST - Representational State Transfer 
+
+        Rest   Node.js      Db 
+            req <-> 
+            res
+
+
+inplementation method 
+HTTP 
+GET 
+POST 
+PUT
+DELETE 
